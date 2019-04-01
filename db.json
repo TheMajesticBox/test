@@ -1,7 +1,7 @@
 {
   "example": [
     {
-      "postId": 1,
+      "PostId": 1,
       "Id": "hello",
       "Description": "hello"
     }
