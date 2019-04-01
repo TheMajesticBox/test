@@ -2,8 +2,22 @@
   "example": [
     {
       "PostId": 1,
-      "Id": 2,
+      "Id": 1,
       "Description": "hello"
+    }
+  ],
+  "example": [
+    {
+      "PostId": 1,
+      "Id": 2,
+      "Description": "hahaha"
+    }
+  ],
+  "example": [
+    {
+      "PostId": 1,
+      "Id": 3,
+      "Description": "hdeo"
     }
   ],
   "profile": {
